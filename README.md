@@ -58,8 +58,6 @@
 ![Postman](https://img.shields.io/badge/-Postman-565656?logo=Postman&logoColor=white&style=for-the-badge)&nbsp;
 ![Insomnia](https://img.shields.io/badge/-Insomnia-565656?logo=Insomnia&logoColor=white&style=for-the-badge)&nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerbertJulio&langs_count=6&layout=compact&theme=dark" alt="HerbertJulio" width="50%" style="margin-top: 30px; margin-bottom: 30px;" />
-
 ## 📫 Contact  
 <a href="https://discord.gg/FsHU25Dv" target="_blank">
  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
