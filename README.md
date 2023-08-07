@@ -73,6 +73,3 @@
 <a href="https://api.whatsapp.com/send?phone=5521968578275" target="_blank">
   <img src="https://img.shields.io/badge/-WHATSAPP-34AF23?style=for-the-badge&logo=whatsApp&logoColor=white" target="_blank">
 </a> 
-
-
-![Snake animation](https://github.com/HerbertJulio/HerbertJulio/blob/output/github-contribution-grid-snake.svg)
