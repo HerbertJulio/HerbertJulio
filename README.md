@@ -34,7 +34,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-565656?logo=MySQL&logoColor=white&style=for-the-badge)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-565656?logo=MongoDB&logoColor=white&style=for-the-badge)&nbsp;
 ![Postgress](https://img.shields.io/badge/-PostgreSQL-565656?logo=PostgreSQL&logoColor=white&style=for-the-badge)&nbsp;
-![Postgress](https://img.shields.io/badge/-SqlServer-565656?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)&nbsp;
+![SQLSERVER](https://img.shields.io/badge/-SqlServer-565656?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)&nbsp;
 
 
 ![Node.Js](https://img.shields.io/badge/-NodeJs-565656?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
