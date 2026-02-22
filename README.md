@@ -3,6 +3,10 @@
 <br>
 
 <div align="center">
+  <h2>Hi there! I'm Herbert Cotta 👋</h2>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CD7F32&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%C2%B7+TypeScript+%C2%B7+Vue.js;Micro-Frontends+%26+Module+Federation+%E2%9A%A1;8%2B+Years+of+Experience+%F0%9F%8F%86;Azion+Technologies+%7C+Edge+Computing+%F0%9F%8C%90;Engineering+Jedi+Master+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
@@ -37,7 +41,7 @@
 <br>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerbertJulio&theme=tokyonight" width="98%"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerbertJulio&theme=nord_dark&bg_color=0A1628&border_color=2B5EA7&title_color=CD7F32&text_color=C0C7D6&icon_color=4A7FCF" width="98%"/>
 </div>
 
 <br>
