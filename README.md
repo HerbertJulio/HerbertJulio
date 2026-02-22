@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CD7F32&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%C2%B7+TypeScript+%C2%B7+Vue.js;Micro-Frontends+%26+Module+Federation+%E2%9A%A1;8%2B+Years+of+Experience+%F0%9F%8F%86;Azion+Technologies+%7C+Edge+Computing+%F0%9F%8C%90;Engineering+Jedi+Master+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CD7F32&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer;React+%C2%B7+TypeScript+%C2%B7+Vue.js;Micro-Frontends+%26+Module+Federation+%E2%9A%A1;8%2B+Years+of+Experience+%F0%9F%8F%86;Performance+%26+Governance+%F0%9F%93%8A;Monitoring+%26+Metrics+%F0%9F%94%8D;Engineering+Jedi+Master+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br>
@@ -24,7 +24,7 @@
 
 <div align="center">
   <samp>
-    🚀 Senior Frontend Engineer at <b>Azion Technologies</b> — building scalable web applications at the edge.<br/>
+    🚀 Senior Frontend Engineer — building scalable web applications at the edge.<br/>
     8+ years crafting high-performance Micro-Frontend architectures with React, TypeScript and Vue.<br/>
     Passionate about Edge Computing, performance optimization and developer experience.<br/>
     🏆 Engineering Jedi Master · Azion Partner Awards 2024
@@ -34,14 +34,14 @@
 <br>
 
 <div align="center">
-  <img height="180em" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HerbertJulio&show_icons=true&theme=tokyonight&title_color=CD7F32&icon_color=4A7FCF&bg_color=0A1628&border_color=2B5EA7&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HerbertJulio&theme=tokyonight&ring=CD7F32&fire=CD7F32&currStreakLabel=CD7F32&sideLabels=4A7FCF&dates=C0C7D6&background=0A1628&stroke=2B5EA7"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HerbertJulio&show_icons=true&title_color=CD7F32&icon_color=4A7FCF&text_color=C0C7D6&bg_color=0A1628&border_color=2B5EA7&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HerbertJulio&background=0A1628&border=2B5EA7&stroke=2B5EA7&ring=CD7F32&fire=CD7F32&currStreakNum=C0C7D6&sideNums=C0C7D6&currStreakLabel=CD7F32&sideLabels=4A7FCF&dates=4A7FCF"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerbertJulio&theme=nord_dark&bg_color=0A1628&border_color=2B5EA7&title_color=CD7F32&text_color=C0C7D6&icon_color=4A7FCF" width="98%"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HerbertJulio&layout=compact&title_color=CD7F32&text_color=C0C7D6&bg_color=0A1628&border_color=2B5EA7&langs_count=12" width="98%"/>
 </div>
 
 <br>
