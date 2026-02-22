@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=HerbertJulio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HerbertJulio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HerbertJulio&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10"/>
 </p>
 
@@ -55,21 +55,3 @@
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-565656?logo=MySQL&logoColor=white&style=for-the-badge)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-565656?logo=MongoDB&logoColor=white&style=for-the-badge)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-565656?logo=PostgreSQL&logoColor=white&style=for-the-badge)&nbsp;
-![SqlServer](https://img.shields.io/badge/-SqlServer-565656?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)&nbsp;
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/-Git-565656?logo=Git&logoColor=white&style=for-the-badge)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-565656?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge)&nbsp;
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-565656?logo=visualstudio&logoColor=white&style=for-the-badge)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-565656?logo=Postman&logoColor=white&style=for-the-badge)&nbsp;
-![Insomnia](https://img.shields.io/badge/-Insomnia-565656?logo=Insomnia&logoColor=white&style=for-the-badge)&nbsp;
-
-## 📫 Contact
-
-<a href="https://discord.gg/FsHU25Dv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="mailto:herbert.dsn.erp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/herbertcotta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://api.whatsapp.com/send?phone=5521968578275" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-34AF23?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
