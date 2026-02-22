@@ -40,12 +40,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HerbertJulio&layout=compact&title_color=CD7F32&text_color=C0C7D6&bg_color=0A1628&border_color=2B5EA7&langs_count=12" width="98%"/>
-</div>
-
-<br>
-
 ## 🛠️ Languages & Technologies
 
 **Frontend**
@@ -110,7 +104,7 @@
 <br>
 
 <details align="center">
-  <summary><samp><b>📬 Contact & More</b></samp></summary>
+  <summary><samp><b>Contact & More</b></samp></summary>
   <br>
 
   <div align="center">
