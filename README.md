@@ -1,93 +1,133 @@
-<h1 align="center"> Herbert Vicente Cotta Julio </h1>
-<h3 align="center">Senior Frontend Engineer | React · TypeScript · Vue | Micro-Frontends & Edge Computing</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=2,3,29&section=header&text=Herbert%20Vicente%20Cotta%20Julio&fontSize=36&fontColor=946B2D&fontAlignY=45&animation=fadeIn&desc=Senior%20Frontend%20Engineer%20%7C%20Micro-Frontends%20%26%20Edge%20Computing&descFontColor=b8a06a&descAlignY=68&descFontSize=16"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HerbertJulio&color=6e40c9&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-6e40c9?style=flat-square" alt="Experience" />
-  <img src="https://img.shields.io/badge/Location-Rio%20de%20Janeiro%2C%20Brasil-6e40c9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
+<br>
 
-<hr/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=946B2D&center=true&vCenter=true&width=700&lines=Senior+Frontend+Engineer+%F0%9F%A6%85;React+%C2%B7+TypeScript+%C2%B7+Vue.js+%F0%9F%94%B7;Micro-Frontends+%26+Module+Federation+%E2%9A%A1;8%2B+Years+of+Experience+%F0%9F%8F%86;Azion+Technologies+%7C+Edge+Computing+%F0%9F%8C%90;Engineering+Jedi+Master+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  🚀 Senior Frontend Engineer at <strong>Azion Technologies</strong> — building scalable web applications at the edge.<br/>
-  8+ years of experience crafting high-performance Micro-Frontend architectures with React, TypeScript and Vue.<br/>
-  Passionate about Edge Computing, performance optimization and developer experience.
-</p>
+<br>
 
-<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%A6%85_Corvinal-222F5B?style=for-the-badge&logoColor=946B2D" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=HerbertJulio&style=for-the-badge&color=222F5B&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-946B2D?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Rio%20de%20Janeiro-222F5B?style=for-the-badge&logo=googlemaps&logoColor=946B2D" />
+</div>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="180em" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HerbertJulio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HerbertJulio&theme=dark&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10"/>
-</p>
+<br>
+
+<div align="center">
+  <samp>
+    🚀 Senior Frontend Engineer at <b>Azion Technologies</b> — building scalable web applications at the edge.<br/>
+    8+ years crafting high-performance Micro-Frontend architectures with React, TypeScript and Vue.<br/>
+    Passionate about Edge Computing, performance optimization and developer experience.<br/>
+    🏆 Engineering Jedi Master · Azion Partner Awards 2024
+  </samp>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=HerbertJulio&show_icons=true&theme=tokyonight&title_color=946B2D&icon_color=946B2D&bg_color=0d1117&border_color=222F5B&include_all_commits=true&count_private=true">
+    <img height="180em" width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HerbertJulio&show_icons=true&theme=tokyonight&title_color=946B2D&icon_color=946B2D&bg_color=0d1117&border_color=222F5B&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=HerbertJulio&theme=tokyonight&ring=946B2D&fire=946B2D&currStreakLabel=946B2D&sideLabels=946B2D&dates=4682B4">
+    <img height="180em" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HerbertJulio&theme=tokyonight&ring=946B2D&fire=946B2D&currStreakLabel=946B2D&sideLabels=946B2D&dates=4682B4"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HerbertJulio&theme=tokyonight" width="98%"/>
+</div>
+
+<br>
 
 ## 🛠️ Languages & Technologies
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/-HTML5-565656?logo=HTML5&logoColor=white&style=for-the-badge)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-565656?logo=CSS3&logoColor=white&style=for-the-badge)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-565656?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-565656?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-565656?logo=Sass&logoColor=white&style=for-the-badge)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-565656?logo=tailwindcss&logoColor=white&style=for-the-badge)&nbsp;
+<div align="center">
+  <img width="40" title="HTML5" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">&nbsp;
+  <img width="40" title="CSS3" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">&nbsp;
+  <img width="40" title="JavaScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">&nbsp;
+  <img width="40" title="TypeScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">&nbsp;
+  <img width="40" title="Sass" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg">&nbsp;
+  <img width="40" title="TailwindCSS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">&nbsp;
+</div>
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/-React-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-565656?logo=react&logoColor=white&style=for-the-badge)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-565656?logo=next.js&logoColor=white&style=for-the-badge)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-565656?logo=vue.js&logoColor=white&style=for-the-badge)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-565656?logo=angular&logoColor=white&style=for-the-badge)&nbsp;
-![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-565656?logo=reactquery&logoColor=white&style=for-the-badge)&nbsp;
-![Storybook](https://img.shields.io/badge/-Storybook-565656?logo=storybook&logoColor=white&style=for-the-badge)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-565656?logo=graphql&logoColor=white&style=for-the-badge)&nbsp;
+<div align="center">
+  <img width="40" title="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">&nbsp;
+  <img width="40" title="Next.js" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg">&nbsp;
+  <img width="40" title="Vue.js" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg">&nbsp;
+  <img width="40" title="Angular" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg">&nbsp;
+  <img width="40" title="GraphQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg">&nbsp;
+  <img width="40" title="Storybook" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Storybook.svg">&nbsp;
+</div>
 
-**Build Tools & Module Federation**
+**Build Tools & DevOps**
 
-![Vite](https://img.shields.io/badge/-Vite-565656?logo=vite&logoColor=white&style=for-the-badge)&nbsp;
-![Webpack](https://img.shields.io/badge/-Webpack-565656?logo=webpack&logoColor=white&style=for-the-badge)&nbsp;
-![Module Federation](https://img.shields.io/badge/-Module%20Federation-565656?logo=webpack&logoColor=white&style=for-the-badge)&nbsp;
+<div align="center">
+  <img width="40" title="Vite" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg">&nbsp;
+  <img width="40" title="Webpack" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Webpack-Dark.svg">&nbsp;
+  <img width="40" title="Docker" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">&nbsp;
+  <img width="40" title="AWS" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">&nbsp;
+  <img width="40" title="GitHub Actions" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GithubActions-Dark.svg">&nbsp;
+  <img width="40" title="Jenkins" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg">&nbsp;
+</div>
 
-**Backend & APIs**
+**Backend & Databases**
 
-![Node.js](https://img.shields.io/badge/-Node.js-565656?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
-![Express](https://img.shields.io/badge/-Express-565656?logo=express&logoColor=white&style=for-the-badge)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-565656?logo=csharp&logoColor=white&style=for-the-badge)&nbsp;
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-565656?logo=dotnet&logoColor=white&style=for-the-badge)&nbsp;
+<div align="center">
+  <img width="40" title="Node.js" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">&nbsp;
+  <img width="40" title="Express" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg">&nbsp;
+  <img width="40" title="C#" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg">&nbsp;
+  <img width="40" title="PostgreSQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">&nbsp;
+  <img width="40" title="MySQL" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg">&nbsp;
+  <img width="40" title="MongoDB" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg">&nbsp;
+</div>
 
-**Databases**
+**Testing & Quality**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-565656?logo=postgresql&logoColor=white&style=for-the-badge)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-565656?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-565656?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-565656?logo=mongodb&logoColor=white&style=for-the-badge)&nbsp;
+<div align="center">
+  <img width="40" title="Vitest" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vitest-Dark.svg">&nbsp;
+  <img width="40" title="Jest" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg">&nbsp;
+  <img width="40" title="Cypress" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cypress-Dark.svg">&nbsp;
+  <img width="40" title="Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">&nbsp;
+  <img width="40" title="Grafana" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg">&nbsp;
+</div>
 
-**Testing**
+<br>
 
-![Vitest](https://img.shields.io/badge/-Vitest-565656?logo=vitest&logoColor=white&style=for-the-badge)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-565656?logo=jest&logoColor=white&style=for-the-badge)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-565656?logo=cypress&logoColor=white&style=for-the-badge)&nbsp;
+<details align="center">
+  <summary><samp><b>📬 Contact & More</b></samp></summary>
+  <br>
 
-**DevOps & Cloud**
+  <div align="center">
+    <a href="https://discord.com/users/Herbert#0001">
+      <img src="https://img.shields.io/badge/Discord-222F5B?style=for-the-badge&logo=discord&logoColor=946B2D" />
+    </a>&nbsp;
+    <a href="mailto:herbertjulio.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-222F5B?style=for-the-badge&logo=gmail&logoColor=946B2D" />
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/herbertcotta/">
+      <img src="https://img.shields.io/badge/LinkedIn-222F5B?style=for-the-badge&logo=linkedin&logoColor=946B2D" />
+    </a>&nbsp;
+    <a href="https://wa.me/5521987654321">
+      <img src="https://img.shields.io/badge/WhatsApp-222F5B?style=for-the-badge&logo=whatsapp&logoColor=946B2D" />
+    </a>
+  </div>
 
-![Docker](https://img.shields.io/badge/-Docker-565656?logo=docker&logoColor=white&style=for-the-badge)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-565656?logo=amazonaws&logoColor=white&style=for-the-badge)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-565656?logo=githubactions&logoColor=white&style=for-the-badge)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-565656?logo=jenkins&logoColor=white&style=for-the-badge)&nbsp;
-![SonarQube](https://img.shields.io/badge/-SonarQube-565656?logo=sonarqube&logoColor=white&style=for-the-badge)&nbsp;
+  <br>
+</details>
 
-**Observability & Monitoring**
+<br>
 
-![Grafana](https://img.shields.io/badge/-Grafana-565656?logo=grafana&logoColor=white&style=for-the-badge)&nbsp;
-![Sentry](https://img.shields.io/badge/-Sentry-565656?logo=sentry&logoColor=white&style=for-the-badge)&nbsp;
-
-## 📬 Contact
-
-<p align="left">
-  <a href="https://discord.com/users/Herbert#0001"><img src="https://img.shields.io/badge/-Discord-565656?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"></a>&nbsp;
-  <a href="mailto:herbertjulio.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-565656?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/herbertcotta/"><img src="https://img.shields.io/badge/-LinkedIn-565656?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>&nbsp;
-  <a href="https://wa.me/5521987654321"><img src="https://img.shields.io/badge/-WhatsApp-565656?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp"></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=2,3,29&section=footer&animation=fadeIn"/>
