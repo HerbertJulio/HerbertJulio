@@ -111,7 +111,7 @@
     <a href="https://discord.com/users/Herbert#0001">
       <img src="https://img.shields.io/badge/Discord-0F2240?style=for-the-badge&logo=discord&logoColor=CD7F32" />
     </a>&nbsp;
-    <a href="mailto:herbertjulio.dev@gmail.com">
+    <a href="mailto:hvcotta@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-0F2240?style=for-the-badge&logo=gmail&logoColor=CD7F32" />
     </a>&nbsp;
     <a href="https://www.linkedin.com/in/herbertcotta/">
